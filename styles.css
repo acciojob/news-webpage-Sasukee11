@@ -25,8 +25,8 @@ section{
 }
 
 .section-1,
-.section-2,
-.section-3{
+.latest-news-section,
+.pictorial-news-section{
 	background-color:white;
 	width:33.33%;
 	display:flex;
